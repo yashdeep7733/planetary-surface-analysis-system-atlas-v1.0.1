@@ -45,12 +45,6 @@ atlas/
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.9+
-- Node.js 18+
-- A trained model checkpoint at `backend/runs/detect/runs/crater_detector/weights/best.pt`
-
 ### Backend Setup
 
 ```bash
@@ -120,13 +114,6 @@ Diameter is estimated as the average of each bounding box's width and height, in
 ## Model Training
 
 The detection model started from Ultralytics' `yolo11n.pt` checkpoint and was fine-tuned on the [Martian/Lunar Crater Detection Dataset](https://www.kaggle.com/datasets/lincolnzh/martianlunar-crater-detection-dataset) from Kaggle, which contains labeled crater imagery from both Martian and lunar surfaces.
-
-## Roadmap
-
-- [ ] Support batch image uploads
-- [ ] Add real-world scale calibration (px → meters) using image metadata
-- [ ] Persist analysis history
-- [ ] Deploy backend + frontend
 
 ## Examples
 
