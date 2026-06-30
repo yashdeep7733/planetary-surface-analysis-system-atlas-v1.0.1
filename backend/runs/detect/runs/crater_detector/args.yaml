@@ -108,4 +108,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: tracktrack.yaml
-save_dir: /Users/yashlgn/Downloads/COD STF/BIG PJ/planetary-surface-analysis-atlas-vision/backend/runs/detect/runs/crater_detector
+save_dir: runs/detect/crater_detector
