@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: crater
+
+# class  x_center  y_center  width  height as Labels
+# 0 label is crater, other labels are not considered for training
