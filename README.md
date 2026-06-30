@@ -131,6 +131,6 @@ The detection model started from Ultralytics' `yolo11n.pt` checkpoint and was fi
 ## Examples
 
 <p align="center">
-  <img src="Annotated_Example_image.jpeg" width="500"/>
-  <img src="Example_image.png" width="500"/>
+  <img src="Examples/Annotated_Example_image.jpeg" width="500"/>
+  <img src="Examples/Example_image.png" width="500"/>
 </p>
