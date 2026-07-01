@@ -120,4 +120,5 @@ The detection model started from Ultralytics' `yolo11n.pt` checkpoint and was fi
 <p align="center">
   <img src="Examples/Annotated_Example_image.jpeg" width="500"/>
   <img src="Examples/Example_image.png" width="500"/>
+  <img src="1782815003629.jpeg" width="1000"/>
 </p>
