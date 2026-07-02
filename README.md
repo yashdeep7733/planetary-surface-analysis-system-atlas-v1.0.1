@@ -1,6 +1,6 @@
-# Atlas — Planetary Surface Analysis System
+# Planetary Surface Analysis System
 
-Atlas is a web application for automated crater detection and analysis on planetary surface imagery. Upload an image of a lunar or Martian surface, and Atlas detects craters using a custom-trained YOLO model, then returns an annotated image along with size statistics and a distribution histogram.
+A web application for automated crater detection and analysis on planetary surface imagery. Upload an image of a lunar or Martian surface, and Atlas detects craters using a custom-trained YOLO model, then returns an annotated image along with size statistics and a distribution histogram.
 
 ## Features
 
